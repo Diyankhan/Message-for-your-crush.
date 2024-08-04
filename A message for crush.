@@ -1,0 +1,55 @@
+import java.util.*;
+public class test{
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter the number of lines.");
+    int lines = 5;
+    int lines2 = 10;
+    int lines3 = 10;
+    // for i
+    for(int i=1;i<=lines2;i++){
+      for(int j=1;j<=lines2;j++){
+        if(i==1 || j==3 || i==lines2){
+          System.out.print("*"+" ");
+        }
+        else{
+          System.out.print("    ");
+        }
+      }System.out.println();
+    }
+    //upper half
+    for(int i=1;i<=lines;i++){
+      for(int j=lines-1;j>=i;j--){
+        System.out.print(" ");
+      }
+      for(int j=1;j<=i;j++){
+        System.out.print("*"+" ");
+      }
+      for(int j=lines-1;j>=i;j--){
+        System.out.print("  ");
+      }
+      for(int j=1;j<=i;j++){
+        System.out.print("*"+" ");
+      }System.out.println();
+    }
+    for(int i=lines*2;i>=1;i--){
+      for(int j=(lines*2)-1;j>=i;j--){
+        System.out.print(" ");
+      }
+      for(int j=1;j<=i;j++){
+        System.out.print("*"+" ");
+      }System.out.println();
+    }
+    // for u
+    for(int i=1;i<=lines3;i++){
+      for(int j=1;j<=lines3;j++){
+        if(j==1 || i==lines3 || j==lines3){
+          System.out.print("*"+" ");
+        }
+        else{
+          System.out.print("  ");
+        }
+      }System.out.println();
+    }
+    }
+}
