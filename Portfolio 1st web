@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<h1 style="text-align:center; font-size:40px;"><b>**ULTRA CODING**</b></h1>
+<h1>!Welcome to Ultra Coding, my personal portfolio. Explore my coding journey, projects, and expertise.!
+</h1>
+<body>
+    <p style="text-align:center">
+        <img src="https://www.mediabistro.com/wp-content/uploads/2016/02/tips-on-getting-your-copywriter-portfolio-started.jpg" alt="Portfolio" height="250"></img>
+        </p>
+<p style="font-size:30px;">Hi, I'm <b>Diyan khan</b> a passionate coder and developer. This portfolio showcases my projects, skills, and experiences. Take a look around and let's connect.
+    </p>
+<hr/>
+<h2 style="font-size:30px;"><u>If you are interested in my stats You can check it out below.</u></h2>
+<hr/>
+<p style="font-size:30px;"><i><b>"The best teachers are those who show you where to look, but don't tell you what to see. - Alexandra K. Trenfor."
+</b></i>
+</p>
+    <img src="https://cxotoday.com/wp-content/uploads/2022/08/education.jpeg" alt="Education" height="250"></img>
+    <img src="https://www.systemsmedicine.net/wp-content/uploads/2015/07/projects-e1443770734382.png" alt = "project" height="250"></img>
+    <img src="https://ugc.futurelearn.com/uploads/images/9b/e5/9be5958a-437e-4846-a5be-6978cc8f362b.png" alt="Skill" height="250"></img>
+    <br/>
+    <p style="font-size:28px; text-align:center"><u>---Click the below link for more info.---</u></p>
+    <p style="font-size:30px;">1.If you want to check my Education level then Click below.</p>
+    <a style="font-size:25px;" href="/Education.html">Education</a>
+    <br/>
+    <br/>
+    <p style="font-size:30px;">2.If you want to check my Projects then Click below.</p>
+    <a style="font-size:25px;" href="/Projects.html"> Projects</a>
+    <br/>
+    <br/>
+    <p style="font-size:30px;">3.If you want to check my Skills then Click below.</p>
+    <a style="font-size:25px;" href="/skill.html">Skills</a>
+
+</body>
+</html>
